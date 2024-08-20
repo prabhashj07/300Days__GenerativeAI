@@ -4,7 +4,7 @@ This repository, 300Days_GenerativeAI, is dedicated to 300 days of continuous le
 
 | Book | Status |
 |------|--------|
-| [Mastering PyTorch: Create and deploy deep learning models from CNNs to multimodal models, LLMs, and beyond](https://www.amazon.com/Mastering-PyTorch-powerful-learning-architectures-dp-1801074305/dp/1801074305/ref=dp_ob_title_bk) (Ashish Ranjan Jha) | ✅ Completed |
+| [Mastering PyTorch: Create and deploy deep learning models from CNNs to multimodal models, LLMs, and beyond](https://www.amazon.com/Mastering-PyTorch-powerful-learning-architectures-dp-1801074305/dp/1801074305/ref=dp_ob_title_bk) (Ashish Ranjan Jha) | 🔄 Ongoing |
 | [Transfer Learning for Natural Language Processing](https://www.amazon.com/Transfer-Learning-Natural-Language-Processing/dp/1617297267) (Paul Azunre) |      |    |
 | [Build a Large Language Model (From Scratch) (MEAP)](https://www.amazon.com/Build-Large-Language-Model-Scratch/dp/1633437167/ref=sr_1_1?s=books&sr=1-1) (Sebastian Raschka) |      |    |
 | [Learn Generative AI with PyTorch](https://www.amazon.com/Learn-Generative-PyTorch-Mark-Liu/dp/1633436462/ref=sr_1_1?s=books&sr=1-1) (Mark Liu) |      |    |
