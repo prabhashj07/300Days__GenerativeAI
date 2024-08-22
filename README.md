@@ -12,6 +12,12 @@ This repository, 300Days_GenerativeAI, is dedicated to 300 days of continuous le
 | [Understanding Langchain: A Comprehensive Guide to Crafting Futuristic Language Model Applications](https://www.amazon.com/Understanding-Langchain-Comprehensive-Futuristic-Applications-ebook/dp/B0CLRPF596/ref=sr_1_1?s=books&sr=1-1) (Jeffery Owens) |      |    |
 | [The Developer’s Playbook for Large Language Model Security](https://www.amazon.com/Developers-Playbook-Large-Language-Security/dp/109816220X) (Steve Wilson) |      |    |
 
+
+| No. | Research Paper | Topic                        | Status    |
+|-----|----------------|------------------------------|-----------|
+| 1   | [Going Deeper with Convolutions](https://arxiv.org/pdf/1409.4842) | GoogLeNet | ✅ Completed |
+
+
 ### Day 1 of 300DaysOfGenerativeAI
 - In today's session on Mastering PyTorch, I focused on the foundational aspects of deep learning, particularly through the "Deep Learning with PyTorch: A 60 Minute Blitz" tutorial. I learned about neural network architectures, including fully connected, convolutional, and recurrent layers, and explored PyTorch's key modules such as torch.autograd for automatic differentiation and torch.nn for building networks. I practiced forward and backward propagation, loss calculation, and gradient descent, culminating in the construction of a simple feed-forward neural network. On upcoming sessions, my agenda includes a deep dive into the power of Convolutional Neural Networks (CNNs), their architectural evolution, and hands-on development of models like LeNet, AlexNet, VGG, GoogLeNet, Inception v3, ResNet, DenseNet, and EfficientNets, discussing their significance and future in deep learning.
 - Additional Resource:
@@ -25,4 +31,8 @@ This repository, 300Days_GenerativeAI, is dedicated to 300 days of continuous le
 
 ### Day 4 of 300DaysOfGenerativeAI
 - In today's session on Mastering PyTorch, I have learned that GoogLeNet, also known as Inception v1, is a groundbreaking convolutional neural network architecture that introduced the inception module, which features parallel convolutional layers with varying kernel sizes (1x1, 3x3, 5x5) to capture multi-scale features. I have discovered that 1x1 convolutions are crucial for dimensionality reduction, allowing the model to maintain efficiency by reducing the depth of feature maps without altering spatial dimensions. Additionally, I have learned that GoogLeNet employs global average pooling before the output layer to minimize parameters and enhance robustness against overfitting. My exploration of Inception v3 has shown me how it builds upon the original design with more complex modules and additional layers, resulting in improved performance. Overall, I now have a deeper understanding of the innovative techniques in GoogLeNet and Inception v3, including inception modules, 1x1 convolutions, and global average pooling, which have significantly advanced the field of computer vision.
+
+### Day 5 of 300DaysOfGenerativeAI
+- In today's session on Mastering PyTorch, I worked on implementing the GoogLeNet architecture, focusing on the construction and integration of multiple Inception modules within the network. I refined the parameters of each Inception module to correctly reflect the intended configuration, which included adjusting the convolutional and pooling layers to efficiently extract features at various scales. Additionally, I incorporated the initial convolutional layer with batch normalization and ReLU activation, followed by max pooling layers for downsampling. While working on the model, I also considered the importance of auxiliary classifiers, which are typically included in the GoogLeNet architecture to help mitigate the vanishing gradient problem by providing intermediate supervision. These classifiers are smaller versions of the main classifier, attached to earlier layers, and they improve the network's ability to learn meaningful features during training.
+
 
