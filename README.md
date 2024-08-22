@@ -12,6 +12,7 @@ This repository, 300Days_GenerativeAI, is dedicated to 300 days of continuous le
 | [Understanding Langchain: A Comprehensive Guide to Crafting Futuristic Language Model Applications](https://www.amazon.com/Understanding-Langchain-Comprehensive-Futuristic-Applications-ebook/dp/B0CLRPF596/ref=sr_1_1?s=books&sr=1-1) (Jeffery Owens) |      |    |
 | [The Developer’s Playbook for Large Language Model Security](https://www.amazon.com/Developers-Playbook-Large-Language-Security/dp/109816220X) (Steve Wilson) |      |    |
 
+<br>
 
 | No. | Research Paper | Topic                        | Status    |
 |-----|----------------|------------------------------|-----------|
