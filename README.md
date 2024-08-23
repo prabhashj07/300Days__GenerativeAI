@@ -16,8 +16,7 @@ This repository, 300Days_GenerativeAI, is dedicated to 300 days of continuous le
 
 | No. | Research Paper | Topic                        | Status    |
 |-----|----------------|------------------------------|-----------|
-| 1   | [A Novel Deep LeNet-5 Convolutional Neural Network Model for Image Recognition](http://elib.mi.sanu.ac.rs/files/journals/csis/58/csisn58p1463-1480.pdf) | LeNet-5 | ✅
-     Completed |
+| 1   | [A Novel Deep LeNet-5 Convolutional Neural Network Model for Image Recognition](http://elib.mi.sanu.ac.rs/files/journals/csis/58/csisn58p1463-1480.pdf) | LeNet-5 | ✅ Completed |
 | 2   | [Going Deeper with Convolutions](https://arxiv.org/pdf/1409.4842) | GoogLeNet | ✅ Completed |
 
 
