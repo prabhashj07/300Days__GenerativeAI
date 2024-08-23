@@ -16,7 +16,9 @@ This repository, 300Days_GenerativeAI, is dedicated to 300 days of continuous le
 
 | No. | Research Paper | Topic                        | Status    |
 |-----|----------------|------------------------------|-----------|
-| 1   | [Going Deeper with Convolutions](https://arxiv.org/pdf/1409.4842) | GoogLeNet | ✅ Completed |
+| 1   | [A Novel Deep LeNet-5 Convolutional Neural Network Model for Image Recognition](http://elib.mi.sanu.ac.rs/files/journals/csis/58/csisn58p1463-1480.pdf) | LeNet-5 | ✅
+     Completed |
+| 2   | [Going Deeper with Convolutions](https://arxiv.org/pdf/1409.4842) | GoogLeNet | ✅ Completed |
 
 
 ### Day 1 of 300DaysOfGenerativeAI
@@ -35,5 +37,8 @@ This repository, 300Days_GenerativeAI, is dedicated to 300 days of continuous le
 
 ### Day 5 of 300DaysOfGenerativeAI
 - In today's session on Mastering PyTorch, I worked on implementing the GoogLeNet architecture, focusing on the construction and integration of multiple Inception modules within the network. I refined the parameters of each Inception module to correctly reflect the intended configuration, which included adjusting the convolutional and pooling layers to efficiently extract features at various scales. Additionally, I incorporated the initial convolutional layer with batch normalization and ReLU activation, followed by max pooling layers for downsampling. While working on the model, I also considered the importance of auxiliary classifiers, which are typically included in the GoogLeNet architecture to help mitigate the vanishing gradient problem by providing intermediate supervision. These classifiers are smaller versions of the main classifier, attached to earlier layers, and they improve the network's ability to learn meaningful features during training.
+
+### Da6 6 of 300DaysOfGenerativeAI
+- In today's session, I read "A Novel Deep LeNet-5 Convolutional Neural Network Model for Image Recognition," which proposes an enhanced version of the traditional LeNet-5 architecture aimed at improving image recognition capabilities. The authors address limitations of conventional machine learning and earlier CNN models, such as high hardware requirements and slow convergence speeds. Their novel approach simplifies the network structure while enhancing training speed and modifies the activation function to a Logarithmic Rectified Linear Unit (L ReLU). Experimental results on the MNIST dataset demonstrate that the improved model achieves a recognition rate exceeding 98%, significantly outperforming other state-of-the-art algorithms, thereby providing a valuable reference for advancements in image recognition technology.
 
 
